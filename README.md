@@ -24,8 +24,8 @@ A simple calculator application that supports basic arithmetic operations such a
 **Usage:**
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects/calculator
+   git clone https://github.com/tusharv03/Codesoft.git
+   cd Codesoft/CodeSoft/calculator
    ```
 2. Run the application
    ```bash
@@ -45,8 +45,8 @@ A to-do list application to help you keep track of your tasks.
 **Usage:**
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects/todolist
+   git clone https://github.com/tusharv03/Codesoft.git
+   cd Codesoft/CodeSoft/todolist
    ```
 2. Run the application
    ```bash
@@ -65,8 +65,8 @@ A classic rock-paper-scissors game where you can play against the computer.
 **Usage:**
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects/rock-paper-scissors
+   git clone https://github.com/tusharv03/Codesoft.git
+   cd Codesoft/CodeSoft/rock-paper-scissors
    ```
 2. Run the application
    ```bash
@@ -86,8 +86,8 @@ A contact book application to store and manage your contacts.
 **Usage:**
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects/contactbook
+   git clone https://github.com/tusharv03/Codesoft.git
+   cd Codesoft/CodeSoft/contactbook
    ```
 2. Run the application
    ```bash
@@ -106,8 +106,8 @@ A password generator application to create secure passwords.
 **Usage:**
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects/passwordgenerator
+   git clone https://github.com/tusharv03/Codesoft.git
+   cd Codesoft/CodeSoft/passwordgenerator
    ```
 2. Run the application
    ```bash
