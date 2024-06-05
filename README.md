@@ -70,7 +70,7 @@ A classic rock-paper-scissors game where you can play against the computer.
    ```
 2. Run the application
    ```bash
-   python RockPaperScissors.py
+   python RockPaperScissor.py
    ```
 
 ### Contact Book
