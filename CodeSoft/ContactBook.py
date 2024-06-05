@@ -1,4 +1,4 @@
-#PythonGeeks - import library
+
 from tkinter import *
 from tkinter import messagebox
 
@@ -39,7 +39,7 @@ def Selected():
     else:
         return int(select.curselection()[0])
     
-#PythonGeeks -fun to add new contact
+
 def AddContact():
     if Name.get()!="" and Number.get()!="":
         contactlist.append([Name.get() ,Number.get()])
@@ -100,7 +100,7 @@ def Select_set() :
         select.insert (END, name)
 Select_set()
 
-#PythonGeeks - define buttons labels and entry widget
+
 Label(root, text = 'Name', font=("Times new roman",22,"bold"), bg = 'SlateGray3').place(x= 30, y=20)
 Entry(root, textvariable = Name, width=30).place(x= 200, y=30)
 Label(root, text = 'Contact No.', font=("Times new roman",20,"bold"),bg = 'SlateGray3').place(x= 30, y=70)
