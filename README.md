@@ -25,7 +25,7 @@ A simple calculator application that supports basic arithmetic operations such a
 1. Clone the repository
    ```bash
    git clone https://github.com/tusharv03/Codesoft.git
-   cd Codesoft/CodeSoft/calculator
+   cd Codesoft/CodeSoft
    ```
 2. Run the application
    ```bash
@@ -46,11 +46,11 @@ A to-do list application to help you keep track of your tasks.
 1. Clone the repository
    ```bash
    git clone https://github.com/tusharv03/Codesoft.git
-   cd Codesoft/CodeSoft/todolist
+   cd Codesoft/CodeSoft
    ```
 2. Run the application
    ```bash
-   python todolist.py
+   python toDoList.py
    ```
 
 ### Rock-Paper-Scissors
@@ -66,11 +66,11 @@ A classic rock-paper-scissors game where you can play against the computer.
 1. Clone the repository
    ```bash
    git clone https://github.com/tusharv03/Codesoft.git
-   cd Codesoft/CodeSoft/rock-paper-scissors
+   cd Codesoft/CodeSoft
    ```
 2. Run the application
    ```bash
-   python rock_paper_scissors.py
+   python RockPaperScissors.py
    ```
 
 ### Contact Book
@@ -87,11 +87,11 @@ A contact book application to store and manage your contacts.
 1. Clone the repository
    ```bash
    git clone https://github.com/tusharv03/Codesoft.git
-   cd Codesoft/CodeSoft/contactbook
+   cd Codesoft/CodeSoft
    ```
 2. Run the application
    ```bash
-   python contact_book.py
+   python ContactBook.py
    ```
 
 ### Password Generator
@@ -107,11 +107,11 @@ A password generator application to create secure passwords.
 1. Clone the repository
    ```bash
    git clone https://github.com/tusharv03/Codesoft.git
-   cd Codesoft/CodeSoft/passwordgenerator
+   cd Codesoft/CodeSoft
    ```
 2. Run the application
    ```bash
-   python password_generator.py
+   python PasswordGenerator.py
    ```
 
 ---
